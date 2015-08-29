@@ -1,0 +1,5 @@
+pyautogui==0.9.30
+pafy==0.3.74
+pyscreeze==0.1.7
+pymsgbox==1.0.3
+pytweening==1.0.1
