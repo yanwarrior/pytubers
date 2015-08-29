@@ -24,6 +24,7 @@ $ python pytube.py
 #### Membuat Binary File
 instalasi `pyinstaller`:
 ```
+
 $ pip install pyinstaller
 ```
 build executable:
